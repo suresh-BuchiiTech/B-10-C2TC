@@ -8,6 +8,7 @@ public class Addition {
 		int num1=sc.nextInt();
 		System.out.println("Enter num2");
 		int num2=sc.nextInt();
+		System.out.println("Hehe");
 		int result=num1+num2;
 		System.out.println("Addition of "+num1+" and "+num2+" is "+result);
 	}
